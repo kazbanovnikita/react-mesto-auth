@@ -1,0 +1,4 @@
+.profile__user-information {
+  display: flex;
+  flex-direction: column;
+}

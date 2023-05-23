@@ -1,0 +1,13 @@
+.popup__input-list {
+  margin: 0 auto;
+  max-width: 358px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+@media screen and (max-width: 600px) {
+  .popup__input-list {
+    max-width: 238px;
+  }
+}
