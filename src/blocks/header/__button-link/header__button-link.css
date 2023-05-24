@@ -1,0 +1,17 @@
+.header__button-link {
+  margin: 6px 0 0 0;
+  padding: 0;
+  margin: 6px 0 46px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  color: #ffffff;
+  text-decoration: none;
+  cursor: pointer;
+  font-family: "Inter", "Arial", serif;
+  font-style: normal;
+}
+
+.header__button-link:hover {
+  opacity: 0.6;
+}
